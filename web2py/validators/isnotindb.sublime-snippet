@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>isnotindb</tabTrigger>
+<scope>source.python</scope>
+<description>IS_NOT_IN_DB</description>
+
+<content><![CDATA[IS_NOT_IN_DB(${1:dbset}, ${2:field}$3)$4]]></content>
+</snippet>

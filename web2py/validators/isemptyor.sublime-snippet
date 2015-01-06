@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>isemptyor</tabTrigger>
+<scope>source.python</scope>
+<description>IS_EMPTY_OR</description>
+
+<content><![CDATA[IS_EMPTY_OR($1)$2]]></content>
+</snippet>

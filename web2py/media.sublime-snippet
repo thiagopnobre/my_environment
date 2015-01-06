@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>media</tabTrigger>
+<scope>text.html, source.python</scope>
+<description>media</description>
+
+<content><![CDATA[URL('${1:default}', 'download', args=[${2:filename}])$3]]></content>
+</snippet>

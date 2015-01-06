@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>FORM</tabTrigger>
+<scope>source.python</scope>
+<description>FORM</description>
+
+<content><![CDATA[FORM($1)]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+<tabTrigger>requires</tabTrigger>
+<scope>source.python</scope>
+<description>table requires</description>
+
+<content><![CDATA[
+${1:db}.${2:table}.${3:field}.requires = ${4:VALIDATOR}
+
+]]></content>
+</snippet>

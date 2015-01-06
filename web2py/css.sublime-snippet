@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>css</tabTrigger>
+<scope>text.html, source.python</scope>
+<description>css import</description>
+
+<content><![CDATA[URL('static','css/${1:file}.css')]]></content>
+</snippet>

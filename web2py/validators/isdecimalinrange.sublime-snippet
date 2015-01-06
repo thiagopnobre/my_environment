@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>isdecimalinrange</tabTrigger>
+<scope>source.python</scope>
+<description>IS_DECIMAL_IN_RANGE</description>
+
+<content><![CDATA[IS_DECIMAL_IN_RANGE(${1:minimum=}, ${2:maximum=}$3)$4]]></content>
+</snippet>

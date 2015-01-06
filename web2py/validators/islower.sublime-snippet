@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>islower</tabTrigger>
+<scope>source.python</scope>
+<description>IS_LOWER</description>
+
+<content><![CDATA[IS_LOWER()$1]]></content>
+</snippet>

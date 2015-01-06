@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>images</tabTrigger>
+<scope>text.html, source.python</scope>
+<description>images</description>
+
+<content><![CDATA[URL('static','images/${1:file}.${2:png}')]]></content>
+</snippet>

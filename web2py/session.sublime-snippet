@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>ses</tabTrigger>
+<scope>source.python</scope>
+<description>session</description>
+
+<content><![CDATA[session]]></content>
+</snippet>

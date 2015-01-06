@@ -1,0 +1,11 @@
+<snippet>
+<tabTrigger>for</tabTrigger>
+<scope>text.html</scope>
+<description>for</description>
+
+<content><![CDATA[
+{{for ${1:item} in ${2:items}:}}
+    $3
+{{end}}
+]]></content>
+</snippet>

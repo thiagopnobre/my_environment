@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>URL</tabTrigger>
+<scope>text.html, source.python</scope>
+<description>URL helper</description>
+
+<content><![CDATA[URL('${1:ctrlr}','${2:function}')]]></content>
+</snippet>

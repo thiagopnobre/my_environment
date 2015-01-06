@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>cok</tabTrigger>
+<scope>source.python</scope>
+<description>cookie</description>
+
+<content><![CDATA[cookie]]></content>
+</snippet>

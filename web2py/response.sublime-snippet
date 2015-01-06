@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>res</tabTrigger>
+<scope>source.python</scope>
+<description>respose</description>
+
+<content><![CDATA[request]]></content>
+</snippet>

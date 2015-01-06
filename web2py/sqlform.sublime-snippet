@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>SQLFORM</tabTrigger>
+<scope>source.python</scope>
+<description>SQLFORM</description>
+
+<content><![CDATA[SQLFORM(${1:db.}$2)]]></content>
+</snippet>

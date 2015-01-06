@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>isnotempty</tabTrigger>
+<scope>source.python</scope>
+<description>IS_NOT_EMPTY</description>
+
+<content><![CDATA[IS_NOT_EMPTY()$1]]></content>
+</snippet>

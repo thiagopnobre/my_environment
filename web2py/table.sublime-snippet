@@ -1,0 +1,13 @@
+<snippet>
+<tabTrigger>table</tabTrigger>
+<scope>source.python</scope>
+<description>define table</description>
+
+<content><![CDATA[
+${1:db}.define_table(
+    '${2:mytable}',
+    Field('${3:myfield}', '${4:type}'),
+)
+
+]]></content>
+</snippet>

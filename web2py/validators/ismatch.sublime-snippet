@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>ismatch</tabTrigger>
+<scope>source.python</scope>
+<description>IS_MATCH</description>
+
+<content><![CDATA[IS_MATCH($1)$2]]></content>
+</snippet>

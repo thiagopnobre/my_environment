@@ -1,0 +1,7 @@
+<snippet>
+<tabTrigger>js</tabTrigger>
+<scope>text.html, source.python</scope>
+<description>js import</description>
+
+<content><![CDATA[URL('static','js/${1:file}')]]></content>
+</snippet>

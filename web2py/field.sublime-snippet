@@ -1,0 +1,9 @@
+<snippet>
+<tabTrigger>field</tabTrigger>
+<scope>source.python</scope>
+<description>define field</description>
+
+<content><![CDATA[Field('${1:myfield}', '${2:type}'),
+
+]]></content>
+</snippet>

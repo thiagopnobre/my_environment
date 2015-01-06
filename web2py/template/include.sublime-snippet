@@ -1,0 +1,9 @@
+<snippet>
+<tabTrigger>include</tabTrigger>
+<scope>text.html</scope>
+<description>include layout</description>
+
+<content><![CDATA[
+{{include '${1:layout.html}'}}
+]]></content>
+</snippet>
