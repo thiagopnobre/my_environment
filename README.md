@@ -1,11 +1,24 @@
 My Enviroment
 ==========
 
-My personal configuration for python enviroment and sublime text 3 editor.
+Personal configuration for Sublime Text 3 and python environment at Ubuntu. It's focused on webdeveloper.
 
-![Imagem do Editor com Plugins](plugins.png)
+![Imagem do Editor com Plugins](sublime.png)
 
 My goal in this project is to be a model, if you don't like something, fork and customize!
+
+Features:
+- git
+- web2py support
+- django support
+- pep8
+- pyflake
+- js helpers
+- html helpers(emmet)
+- virtual environment(virtualenvwrapper)
+- better console(ipython)
+- markdown preview
+- ...and more!
 
 I have a custom bash [here](https://github.com/cassiobotaro/dot_files)
 
@@ -73,7 +86,3 @@ See what each script do:
 #####Others
 
     - ctrl + alt + f      ->  format js
-
-
-
-
