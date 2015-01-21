@@ -1,5 +1,6 @@
 # git
 sudo apt-get install -y git
+sudo apt-get install -y build-essential
 
 # Node JS
 sudo add-apt-repository -y ppa:chris-lea/node.js
