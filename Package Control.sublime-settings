@@ -17,12 +17,11 @@
 		"Color Highlighter",
 		"Djaneiro",
 		"Emmet",
-		"FixMyJS",
 		"Git",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
 		"JavaScript & NodeJS Snippets",
 		"Jinja2",
-		"JsFormat",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
@@ -30,9 +29,6 @@
 		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SublimeLinter-jscs",
-		"SublimeLinter-jshint",
 		"SublimeREPL"
 	]
 }

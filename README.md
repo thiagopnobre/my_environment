@@ -13,7 +13,6 @@ Features:
 - django support
 - pep8
 - pyflake
-- js helpers
 - html helpers(emmet)
 - virtual environment(virtualenvwrapper)
 - better console(ipython)
@@ -31,7 +30,6 @@ I have a custom bash [here](https://github.com/cassiobotaro/dot_files)
 ####Instalation
     
     ./utils.sh
-    ./install-jsdeps.sh
     ./install-enviroment.sh
     ./install-sublime.sh
     ./install-plugins.sh

@@ -1,13 +1,5 @@
 {
-	"auto_complete_triggers":
-	[
-		{
-			"characters": ".",
-			"selector": "source.python - string - comment - constant.numeric"
-		}
-	],
-	"bold_folder_labels": true,
-	"caret_extra_width": 2,
+	"Seti_sb_wild": true,
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -35,7 +27,29 @@
 		"*.db",
 		"*.sqlite"
 	],
+	"font_face": "Ubuntu Mono",
 	"find_selected_text": true,
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"rulers":
+	[
+		72,
+		79,
+		99
+	],
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -51,33 +65,11 @@
 		"env",
 		"env3"
 	],
-	"font_face": "Ubuntu Mono",
-	"font_options":
-	[
-		"subpixel_antialias",
-		"no_bold"
-	],
-	"font_size": 13,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
-	"line_padding_bottom": 0,
-	"line_padding_top": 0,
-	"rulers":
-	[
-		72,
-		79,
-		99
-	],
-	"scroll_past_end": false,
-	"show_full_path": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"wrap_width": 80
+	"theme": "Seti.sublime-theme"
 }
