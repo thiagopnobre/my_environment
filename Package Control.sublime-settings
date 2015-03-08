@@ -1,34 +1,28 @@
 {
-	"in_process_packages":
-	[
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2",
-		"ssl-linux"
-	],
-	"installed_packages":
-	[
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"Anaconda",
-		"AutoFileName",
-		"Color Highlighter",
-		"Djaneiro",
-		"Emmet",
-		"Git",
-		"GitGutter",
-		"HTML-CSS-JS Prettify",
-		"JavaScript & NodeJS Snippets",
-		"Jinja2",
-		"Markdown Preview",
-		"MarkdownEditing",
-		"Package Control",
-		"requirementstxt",
-		"Seti_UI",
-		"SideBarEnhancements",
-		"SublimeCodeIntel",
-		"SublimeREPL"
-	]
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "AdvancedNewFile",
+        "All Autocomplete",
+        "Anaconda",
+        "AutoFileName",
+        "Color Highlighter",
+        "Djaneiro",
+        "Emmet",
+        "Git",
+        "GitGutter",
+        "JavaScript & NodeJS Snippets",
+        "Jinja2",
+        "JsFormat",
+        "Markdown Preview",
+        "MarkdownEditing",
+        "Package Control",
+        "requirementstxt",
+        "Seti_UI",
+        "SideBarEnhancements",
+        "SublimeCodeIntel",
+        "SublimeREPL"
+    ]
 }
