@@ -45,8 +45,6 @@ See what each script do:
 
     * utils.sh - Install nodejs(required for some plugins), git(version control) and pip(python package manager)
 
-    * install-jsdeps.sh - Javascript dependencies for plugins
-
     * install-enviroment.sh - Install a python enviroment with pip, ipython, virtualenvwrapper and pytest
 
     * install-sublime.sh - Install sublime text with package control
