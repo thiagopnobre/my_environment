@@ -1,7 +1,5 @@
 {
     "test_command": "py.test",
-    "anaconda_gutter_theme": "alpha",
-    "anaconda_linting_behaviour": "save-only",
     "pyflakes_ignore": [
         "URL",
         "DAL",
