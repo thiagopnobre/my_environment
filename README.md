@@ -36,9 +36,6 @@ I have a custom bash [here](https://github.com/cassiobotaro/dot_files)
     (optional)
     ./install-preferences.sh
 
-Change the theme to SetiUI 
- `Preferences > Color Scheme > Seti_UI > Scheme > Seti`
-
 
 ##Description
 

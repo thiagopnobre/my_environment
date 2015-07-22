@@ -1,25 +1,25 @@
 {
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"All Autocomplete",
-		"Anaconda",
-		"AutoFileName",
-		"Color Highlighter",
-		"ColorPicker",
-		"Emmet",
-		"Git",
-		"GitGutter",
-		"HTML-CSS-JS Prettify",
-		"JavaScript & NodeJS Snippets",
-		"Markdown Preview",
-		"MarkdownEditing",
-		"Package Control",
-		"requirementstxt",
-		"Seti_UI",
-		"SideBarEnhancements",
-		"SublimeREPL"
-	]
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "All Autocomplete",
+        "Anaconda",
+        "AutoFileName",
+        "Color Highlighter",
+        "ColorPicker",
+        "Emmet",
+        "Git",
+        "GitGutter",
+        "HTML-CSS-JS Prettify",
+        "JavaScript & NodeJS Snippets",
+        "Markdown Preview",
+        "MarkdownEditing",
+        "Material Theme",
+        "Package Control",
+        "requirementstxt",
+        "SideBarEnhancements",
+        "SublimeREPL"
+    ]
 }
