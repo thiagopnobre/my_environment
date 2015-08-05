@@ -4,6 +4,7 @@
     "overlay_scroll_bars": "enabled",
     "always_show_minimap_viewport": true,
     "bold_folder_labels": true,
+    "copy_with_empty_selection": false,
     // Highlight active indent
     "indent_guide_options": [ "draw_normal", "draw_active" ],
     "detect_indentation": false,
