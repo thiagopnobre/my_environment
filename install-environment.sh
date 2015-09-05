@@ -9,7 +9,7 @@ sudo apt-get install -y  python3-pip
 
 # libs
 sudo -H pip   install -U virtualenvwrapper
-sudo -H pip   install ipython[all]
+sudo -H pip   install jupyter
 sudo -H pip   install -U flake8
 sudo -H pip   install -U pytest
 
