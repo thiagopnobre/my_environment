@@ -1,5 +1,6 @@
 {
     "test_command": "py.test",
+    "pep257": true,
     "pyflakes_ignore": [
         "URL",
         "DAL",
