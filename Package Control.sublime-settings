@@ -4,23 +4,21 @@
     ],
     "installed_packages":
     [
-        "AdvancedNewFile",
         "All Autocomplete",
         "Anaconda",
         "AutoFileName",
         "Color Highlighter",
-        "Djaneiro",
+        "ColorPicker",
         "Emmet",
         "Git",
         "GitGutter",
+        "HTML-CSS-JS Prettify",
         "JavaScript & NodeJS Snippets",
-        "Jinja2",
-        "JsFormat",
         "Markdown Preview",
         "MarkdownEditing",
+        "Material Theme",
         "Package Control",
         "requirementstxt",
-        "Seti_UI",
         "SideBarEnhancements",
         "SublimeREPL"
     ]

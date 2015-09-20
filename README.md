@@ -21,25 +21,23 @@ Features:
 
 I have a custom bash [here](https://github.com/cassiobotaro/dot_files)
 
-####Requirements:
+##Requirements:
 
 - Ubuntu
-
 - Python
+- Node (html-css-js beautyfy)
 
-####Instalation
+##Instalation
     
-    ./utils.sh
+    ./install-utilities.sh
     ./install-enviroment.sh
     ./install-sublime.sh
     ./install-plugins.sh
+    (optional)
     ./install-preferences.sh
 
-Change the theme to SetiUI 
- `Preferences > Color Scheme > Seti_UI > Scheme > Seti`
 
-
-####Description
+##Description
 
 See what each script do:
 
@@ -53,7 +51,7 @@ See what each script do:
     
     * install-preferences.sh - Some personal configurations
 
-####Commands
+##Commands
 
     - Ctrl + P            ->  Goto anything
     - Ctrl + f            ->  search in file
@@ -72,13 +70,18 @@ See what each script do:
     - ctrl + shift + f    ->  search in project
     where: <project>
 
-#####Anaconda:
+###Anaconda
 
     - shift + alt + g     ->  go to definition
     - shift + alt + f     ->  find usages
     - shift + alt + d     ->  show docstring
     - shift + alt + r     ->  auto format with pep8
 
-#####Others
+###Others
 
-    - ctrl + alt + f      ->  format js
+    - ctrl + alt + h      ->  format js, html, css
+
+###Requirements
+    - alt + ,             ->  pin package to the most recent version but still in the current major line
+    - alt + shift + ,     ->  pin to most recent version
+    - alt + .             ->  pick a version from a quick panel
