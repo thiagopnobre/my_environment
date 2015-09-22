@@ -12,6 +12,7 @@ sudo -H pip   install -U virtualenvwrapper
 sudo -H pip   install jupyter
 sudo -H pip   install -U flake8
 sudo -H pip   install -U pytest
+sudo -H pip install -U pep257
 
 # configs
 echo 'source /usr/local/bin/virtualenvwrapper.sh' >> ~/.bashrc
