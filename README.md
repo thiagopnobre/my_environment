@@ -82,3 +82,10 @@ See what each script do:
 #####Others
 
     - ctrl + alt + f      ->  format js
+
+####Optional branches
+
+Tsting branches
+
+[Ubuntu 15.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1504)
+[Ubuntu 14.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1404)
