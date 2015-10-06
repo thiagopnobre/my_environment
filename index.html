@@ -1,35 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
+    <meta charset="UTF-8">
     <title>My environment by cassiobotaro</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
-
   <body>
-    <header>
-      <div class="inner">
-        <h1>My environment</h1>
-        <h2>Personal configuration for Sublime Text 3 at Ubuntu. It&#39;s focused on webdeveloper.</h2>
-        <a href="https://github.com/cassiobotaro/my_environment" class="button"><small>View project on</small> GitHub</a>
-      </div>
-    </header>
+    <section class="page-header">
+      <h1 class="project-name">My environment</h1>
+      <h2 class="project-tagline">Personal configuration for Sublime Text 3 at Ubuntu. It&#39;s focused on webdeveloper.</h2>
+      <a href="https://github.com/cassiobotaro/my_environment" class="btn">View on GitHub</a>
+      <a href="https://github.com/cassiobotaro/my_environment/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/cassiobotaro/my_environment/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          <h1>
-<a id="my-enviroment" class="anchor" href="#my-enviroment" aria-hidden="true"><span class="octicon octicon-link"></span></a>My Enviroment</h1>
+    <section class="main-content">
+      <h1>
+<a id="my-environment" class="anchor" href="#my-environment" aria-hidden="true"><span class="octicon octicon-link"></span></a>My Environment</h1>
 
 <p>Personal configuration for Sublime Text 3 and python environment at Ubuntu. It's focused on webdeveloper.</p>
 
@@ -42,8 +33,8 @@
 <ul>
 <li>git</li>
 <li>web2py support</li>
-<li>django support</li>
 <li>pep8</li>
+<li>pep257</li>
 <li>pyflake</li>
 <li>html helpers(emmet)</li>
 <li>virtual environment(virtualenvwrapper)</li>
@@ -52,37 +43,35 @@
 <li>...and more!</li>
 </ul>
 
-<p>I have a custom bash <a href="https://github.com/cassiobotaro/dot_files">here</a></p>
+<p>Awesome zsh <a href="http://cassiobotaro.github.io/mv-bash-zsh.html">config</a></p>
 
-<h4>
-<a id="requirements" class="anchor" href="#requirements" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requirements:</h4>
+<h2>
+<a id="requirements" class="anchor" href="#requirements" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requirements:</h2>
 
 <ul>
-<li><p>Ubuntu</p></li>
-<li><p>Python</p></li>
+<li>Ubuntu</li>
+<li>Python</li>
+<li>Node (html-css-js beautyfy)</li>
 </ul>
 
-<h4>
-<a id="instalation" class="anchor" href="#instalation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Instalation</h4>
+<h2>
+<a id="instalation" class="anchor" href="#instalation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Instalation</h2>
 
-<pre><code>./utils.sh
-./install-enviroment.sh
+<pre><code>./install-dependencies.sh
+./install-environment.sh
 ./install-sublime.sh
 ./install-plugins.sh
-./install-preferences.sh
+./install-preferences.sh(optional)
 </code></pre>
 
-<p>Change the theme to SetiUI 
- <code>Preferences &gt; Color Scheme &gt; Seti_UI &gt; Scheme &gt; Seti</code></p>
-
-<h4>
-<a id="description" class="anchor" href="#description" aria-hidden="true"><span class="octicon octicon-link"></span></a>Description</h4>
+<h2>
+<a id="description" class="anchor" href="#description" aria-hidden="true"><span class="octicon octicon-link"></span></a>Description</h2>
 
 <p>See what each script do:</p>
 
-<pre><code>* utils.sh - Install nodejs(required for some plugins), git(version control) and pip(python package manager)
+<pre><code>* intall-dependencies.sh - Install nodejs(required for some plugins), git(version control) and build-essential
 
-* install-enviroment.sh - Install a python enviroment with pip, ipython, virtualenvwrapper and pytest
+* install-environment.sh - Install a python environment with pip, ipython, virtualenvwrapper and pytest
 
 * install-sublime.sh - Install sublime text with package control
 
@@ -91,8 +80,8 @@
 * install-preferences.sh - Some personal configurations
 </code></pre>
 
-<h4>
-<a id="commands" class="anchor" href="#commands" aria-hidden="true"><span class="octicon octicon-link"></span></a>Commands</h4>
+<h2>
+<a id="commands" class="anchor" href="#commands" aria-hidden="true"><span class="octicon octicon-link"></span></a>Commands</h2>
 
 <pre><code>- Ctrl + P            -&gt;  Goto anything
 - Ctrl + f            -&gt;  search in file
@@ -104,6 +93,7 @@
 - ctrl + ]            -&gt;  indent
 - ctrl + ]            -&gt;  unindent
 - ctrl + shift + v    -&gt;  paste and indent
+- ctrl + k + v        -&gt;  paste with history
 - ctrl + shift + k    -&gt;  delete line
 - ctrl + shift + d    -&gt;  duplicate line
 - ctrl + shift + up   -&gt;  up line
@@ -112,8 +102,8 @@
 where: &lt;project&gt;
 </code></pre>
 
-<h5>
-<a id="anaconda" class="anchor" href="#anaconda" aria-hidden="true"><span class="octicon octicon-link"></span></a>Anaconda:</h5>
+<h3>
+<a id="anaconda" class="anchor" href="#anaconda" aria-hidden="true"><span class="octicon octicon-link"></span></a>Anaconda</h3>
 
 <pre><code>- shift + alt + g     -&gt;  go to definition
 - shift + alt + f     -&gt;  find usages
@@ -121,29 +111,32 @@ where: &lt;project&gt;
 - shift + alt + r     -&gt;  auto format with pep8
 </code></pre>
 
-<h5>
-<a id="others" class="anchor" href="#others" aria-hidden="true"><span class="octicon octicon-link"></span></a>Others</h5>
+<h3>
+<a id="requirements-1" class="anchor" href="#requirements-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requirements</h3>
 
-<pre><code>- ctrl + alt + f      -&gt;  format js
+<pre><code>- alt + ,             -&gt;  pin package to the most recent version but still in the current major line
+- alt + shift + ,     -&gt;  pin to most recent version
+- alt + .             -&gt;  pick a version from a quick panel
 </code></pre>
-        </section>
 
-        <aside id="sidebar">
-          <a href="https://github.com/cassiobotaro/my_environment/zipball/master" class="button">
-            <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/cassiobotaro/my_environment/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
-          </a>
+<h3>
+<a id="others" class="anchor" href="#others" aria-hidden="true"><span class="octicon octicon-link"></span></a>Others</h3>
 
-          <p class="repo-owner"><a href="https://github.com/cassiobotaro/my_environment"></a> is maintained by <a href="https://github.com/cassiobotaro">cassiobotaro</a>.</p>
+<pre><code>- ctrl + alt + h      -&gt;  format js, html, css
+</code></pre>
 
-          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
-      </div>
-    </div>
+<h3>
+<a id="lts-support" class="anchor" href="#lts-support" aria-hidden="true"><span class="octicon octicon-link"></span></a>LTS Support</h3>
+
+<p><a href="https://github.com/cassiobotaro/my_environment/tree/ubuntu1404">Ubuntu 12.04</a></p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/cassiobotaro/my_environment">My environment</a> is maintained by <a href="https://github.com/cassiobotaro">cassiobotaro</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
 
   
   </body>
