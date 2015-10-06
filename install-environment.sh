@@ -3,7 +3,7 @@ sudo apt-get install -y python-dev
 sudo apt-get install -y python3-dev
 sudo apt-get install -y python3-setuptools
 sudo apt-get install -y python-setuptools
-sudo easy_install-2.7 pip
+sudo apt-get install -y python-pip
 sudo apt-get install -y libboost-python-dev
 sudo apt-get install -y  python3-pip
 

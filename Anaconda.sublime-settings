@@ -75,6 +75,7 @@
         "XML",
         "xmlescape",
         "embed64",
+        "ANY_OF",
         "CLEANUP",
         "CRYPT",
         "IS_ALPHANUMERIC",

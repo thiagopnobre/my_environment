@@ -1,5 +1,5 @@
-My Enviroment
-==========
+My Environment
+==============
 
 Personal configuration for Sublime Text 3 and python environment at Ubuntu. It's focused on webdeveloper.
 
@@ -10,8 +10,8 @@ My goal in this project is to be a model, if you don't like something, fork and 
 Features:
 - git
 - web2py support
-- django support
 - pep8
+- pep257
 - pyflake
 - html helpers(emmet)
 - virtual environment(virtualenvwrapper)
@@ -19,7 +19,7 @@ Features:
 - markdown preview
 - ...and more!
 
-I have a custom bash [here](https://github.com/cassiobotaro/dot_files)
+Awesome zsh [config](http://cassiobotaro.github.io/mv-bash-zsh.html)
 
 ##Requirements:
 
@@ -28,27 +28,26 @@ I have a custom bash [here](https://github.com/cassiobotaro/dot_files)
 - Node (html-css-js beautyfy)
 
 ##Instalation
-    
-    ./utils.sh
-    ./install-enviroment.sh
+
+    ./install-dependencies.sh
+    ./install-environment.sh
     ./install-sublime.sh
     ./install-plugins.sh
-    (optional)
-    ./install-preferences.sh
+    ./install-preferences.sh(optional)
 
 
 ##Description
 
 See what each script do:
 
-    * utils.sh - Install nodejs(required for some plugins), git(version control) and pip(python package manager)
+    * intall-dependencies.sh - Install nodejs(required for some plugins), git(version control) and build-essential
 
-    * install-enviroment.sh - Install a python enviroment with pip, ipython, virtualenvwrapper and pytest
+    * install-environment.sh - Install a python environment with pip, ipython, virtualenvwrapper and pytest
 
     * install-sublime.sh - Install sublime text with package control
-    
+
     * install-plugins.sh - Install plugins in sublime
-    
+
     * install-preferences.sh - Some personal configurations
 
 ##Commands
@@ -63,6 +62,7 @@ See what each script do:
     - ctrl + ]            ->  indent
     - ctrl + ]            ->  unindent
     - ctrl + shift + v    ->  paste and indent
+    - ctrl + k + v        ->  paste with history
     - ctrl + shift + k    ->  delete line
     - ctrl + shift + d    ->  duplicate line
     - ctrl + shift + up   ->  up line
