@@ -1,25 +1,26 @@
 {
+    "bootstrapped": true,
     "in_process_packages":
     [
     ],
     "installed_packages":
     [
-        "AdvancedNewFile",
         "All Autocomplete",
         "Anaconda",
         "AutoFileName",
         "Color Highlighter",
+        "ColorPicker",
         "Emmet",
         "Git",
         "GitGutter",
+        "HTML-CSS-JS Prettify",
         "JavaScript & NodeJS Snippets",
         "Jinja2",
-        "JsFormat",
         "Markdown Preview",
         "MarkdownEditing",
+        "Material Theme",
         "Package Control",
         "requirementstxt",
-        "Seti_UI",
         "SideBarEnhancements",
         "SublimeREPL"
     ]

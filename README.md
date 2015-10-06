@@ -1,5 +1,5 @@
-My Enviroment
-==========
+My Environment
+==============
 
 Personal configuration for Sublime Text 3 and python environment at Ubuntu. It's focused on webdeveloper.
 
@@ -10,8 +10,8 @@ My goal in this project is to be a model, if you don't like something, fork and 
 Features:
 - git
 - web2py support
-- django support
 - pep8
+- pep257
 - pyflake
 - html helpers(emmet)
 - virtual environment(virtualenvwrapper)
@@ -19,41 +19,38 @@ Features:
 - markdown preview
 - ...and more!
 
-I have a custom bash [here](https://github.com/cassiobotaro/dot_files)
+Awesome zsh [config](http://cassiobotaro.github.io/mv-bash-zsh.html)
 
-####Requirements:
+##Requirements:
 
 - Ubuntu
-
 - Python
+- Node (html-css-js beautyfy)
 
-####Instalation
-    
-    ./utils.sh
-    ./install-enviroment.sh
+##Instalation
+
+    ./install-dependencies.sh
+    ./install-environment.sh
     ./install-sublime.sh
     ./install-plugins.sh
-    ./install-preferences.sh
-
-Change the theme to SetiUI 
- `Preferences > Color Scheme > Seti_UI > Scheme > Seti`
+    ./install-preferences.sh(optional)
 
 
-####Description
+##Description
 
 See what each script do:
 
-    * utils.sh - Install nodejs(required for some plugins), git(version control) and pip(python package manager)
+    * intall-dependencies.sh - Install nodejs(required for some plugins), git(version control) and build-essential
 
-    * install-enviroment.sh - Install a python enviroment with pip, ipython, virtualenvwrapper and pytest
+    * install-environment.sh - Install a python environment with pip, ipython, virtualenvwrapper and pytest
 
     * install-sublime.sh - Install sublime text with package control
-    
+
     * install-plugins.sh - Install plugins in sublime
-    
+
     * install-preferences.sh - Some personal configurations
 
-####Commands
+##Commands
 
     - Ctrl + P            ->  Goto anything
     - Ctrl + f            ->  search in file
@@ -65,6 +62,7 @@ See what each script do:
     - ctrl + ]            ->  indent
     - ctrl + ]            ->  unindent
     - ctrl + shift + v    ->  paste and indent
+    - ctrl + k + v        ->  paste with history
     - ctrl + shift + k    ->  delete line
     - ctrl + shift + d    ->  duplicate line
     - ctrl + shift + up   ->  up line
@@ -72,20 +70,21 @@ See what each script do:
     - ctrl + shift + f    ->  search in project
     where: <project>
 
-#####Anaconda:
+###Anaconda
 
     - shift + alt + g     ->  go to definition
     - shift + alt + f     ->  find usages
     - shift + alt + d     ->  show docstring
     - shift + alt + r     ->  auto format with pep8
 
-#####Others
+###Requirements
+    - alt + ,             ->  pin package to the most recent version but still in the current major line
+    - alt + shift + ,     ->  pin to most recent version
+    - alt + .             ->  pick a version from a quick panel
 
-    - ctrl + alt + f      ->  format js
+###Others
 
-####Optional branches
+    - ctrl + alt + h      ->  format js, html, css
 
-Testing branches
-
-[Ubuntu 15.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1504)
-[Ubuntu 14.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1404)
+###LTS Support
+[Ubuntu 12.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1404)
