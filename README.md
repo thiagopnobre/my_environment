@@ -87,4 +87,4 @@ See what each script do:
     - ctrl + alt + h      ->  format js, html, css
 
 ###LTS Support
-[Ubuntu 12.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1404)
+[Ubuntu 14.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1404)
