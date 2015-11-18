@@ -1,12 +1,10 @@
 {
-    "theme": "Material-Theme.sublime-theme",
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-    "overlay_scroll_bars": "enabled",
     "always_show_minimap_viewport": true,
+    "show_encoding": true,
     "bold_folder_labels": true,
+    "Seti_sb_wild": true,
+    "color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
     "copy_with_empty_selection": false,
-    // Highlight active indent
-    "indent_guide_options": [ "draw_normal", "draw_active" ],
     "detect_indentation": false,
     "ensure_newline_at_eof_on_save": true,
     "file_exclude_patterns":
@@ -56,16 +54,22 @@
         "subpixel_antialias",
         "no_bold"
     ],
-    "font_size": 11,
+    "font_size": 12,
     "highlight_line": true,
     "highlight_modified_tabs": true,
     "ignored_packages":
     [
-        "Vintage",
-        "Markdown"
+        "Markdown",
+        "Vintage"
     ],
-    "line_padding_bottom": 3,
-    "line_padding_top": 3,
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "overlay_scroll_bars": "enabled",
     "rulers":
     [
         72,
@@ -74,6 +78,7 @@
     "scroll_past_end": false,
     "show_full_path": true,
     "tab_size": 4,
+    "theme": "Seti_orig.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
 }

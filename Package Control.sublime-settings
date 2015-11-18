@@ -10,20 +10,19 @@
         "AutoFileName",
         "Color Highlighter",
         "ColorPicker",
-        "CSScomb",
         "Emmet",
+        "Git",
         "GitGutter",
-        "GitSavvy",
         "JavaScript & NodeJS Snippets",
         "Jinja2",
-        "JSCS-Formatter",
         "Markdown Preview",
         "MarkdownEditing",
-        "Material Theme",
         "Package Control",
         "requirementstxt",
+        "Seti_UI",
         "SideBarEnhancements",
         "SublimeREPL",
-        "Tag"
+        "Tag",
+        "Terminal"
     ]
 }
