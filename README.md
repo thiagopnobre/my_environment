@@ -25,7 +25,6 @@ Awesome zsh [config](http://cassiobotaro.github.io/mv-bash-zsh.html)
 
 - Ubuntu
 - Python
-- Node (html-css-js beautyfy)
 
 ##Instalation
 
@@ -81,10 +80,6 @@ See what each script do:
     - alt + ,             ->  pin package to the most recent version but still in the current major line
     - alt + shift + ,     ->  pin to most recent version
     - alt + .             ->  pick a version from a quick panel
-
-###Others
-
-    - ctrl + alt + h      ->  format js, html, css
 
 ###LTS Support
 [Ubuntu 14.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1404)
