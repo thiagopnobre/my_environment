@@ -8,11 +8,11 @@ sudo apt-get install -y python3-tk
 sudo apt-get install -y  python3-pip
 
 # libs
+sudo -H pip3  install -U jupyter
 sudo -H pip   install -U virtualenvwrapper
 sudo -H pip   install -U jupyter
 sudo -H pip   install -U flake8
-sudo -H pip   install -U pytest
-sudo -H pip install -U pep257
+sudo -H pip   install -U pep257
 
 # configs
 echo 'source /usr/local/bin/virtualenvwrapper.sh' >> ~/.bashrc
