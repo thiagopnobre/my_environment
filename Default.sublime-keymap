@@ -1,0 +1,5 @@
+[
+{"command": "sublime_jedi_docstring", "keys": ["shift+alt+d"]},
+{"command": "sublime_jedi_goto", "keys": ["shift+alt+g"]},
+{"command": "sublime_jedi_signature", "keys": ["shift+alt+s"]},
+]

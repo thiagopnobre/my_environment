@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isimage</tabTrigger>
-<scope>source.python</scope>
-<description>IS_IMAGE</description>
-
-<content><![CDATA[IS_IMAGE(${1:extensions=('bmp', 'gif', 'jpeg', 'png')})$2]]></content>
-</snippet>

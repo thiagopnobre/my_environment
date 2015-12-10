@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isslug</tabTrigger>
-<scope>source.python</scope>
-<description>IS_SLUG</description>
-
-<content><![CDATA[IS_SLUG(${1:check=False}$2)$3]]></content>
-</snippet>

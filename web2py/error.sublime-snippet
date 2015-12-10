@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>error</tabTrigger>
-<scope>source.python</scope>
-<description>genereic web2py error</description>
-
-<content><![CDATA[raise HTTP(${1:number}, '${2:message}')]]></content>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isequalto</tabTrigger>
-<scope>source.python</scope>
-<description>IS_EQUAL_TO</description>
-
-<content><![CDATA[IS_EQUAL_TO($1)$2]]></content>
-</snippet>

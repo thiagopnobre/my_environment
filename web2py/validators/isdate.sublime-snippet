@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isdate</tabTrigger>
-<scope>source.python</scope>
-<description>IS_DATE</description>
-
-<content><![CDATA[IS_DATE($1)$2]]></content>
-</snippet>

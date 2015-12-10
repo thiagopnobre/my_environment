@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>db</tabTrigger>
-<scope>source.python</scope>
-<description>db</description>
-
-<content><![CDATA[db]]></content>
-</snippet>

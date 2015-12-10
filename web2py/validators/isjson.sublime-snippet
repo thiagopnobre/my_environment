@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isjson</tabTrigger>
-<scope>source.python</scope>
-<description>IS_JSON</description>
-
-<content><![CDATA[IS_JSON($1)$2]]></content>
-</snippet>

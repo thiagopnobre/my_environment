@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>islength</tabTrigger>
-<scope>source.python</scope>
-<description>IS_LENGTH</description>
-
-<content><![CDATA[IS_LENGTH(${1:maxsize=255}, ${2:minsize=0}$3)$4]]></content>
-</snippet>

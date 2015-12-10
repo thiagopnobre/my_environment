@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isip</tabTrigger>
-<scope>source.python</scope>
-<description>IS_IPADDRESS</description>
-
-<content><![CDATA[IS_IPADDRESS($1)$2]]></content>
-</snippet>

@@ -1,29 +1,30 @@
 {
-    "bootstrapped": true,
-    "in_process_packages":
-    [
-    ],
-    "installed_packages":
-    [
-        "All Autocomplete",
-        "Anaconda",
-        "AutoFileName",
-        "Color Highlighter",
-        "ColorPicker",
-        "Emmet",
-        "Git",
-        "GitGutter",
-        "JavaScript & NodeJS Snippets",
-        "Jinja2",
-        "Keymaps",
-        "Markdown Preview",
-        "MarkdownEditing",
-        "Package Control",
-        "requirementstxt",
-        "Seti_UI",
-        "SideBarEnhancements",
-        "SublimeREPL",
-        "Tag",
-        "Terminal"
-    ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"JavaScript & NodeJS Snippets",
+		"Jedi - Python autocompletion",
+		"Keymaps",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Pytest Snippets",
+		"Python Flake8 Lint",
+		"requirementstxt",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Tag",
+		"Terminal"
+	]
 }

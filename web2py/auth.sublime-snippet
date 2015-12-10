@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>auth</tabTrigger>
-<scope>source.python</scope>
-<description>auth</description>
-
-<content><![CDATA[auth]]></content>
-</snippet>

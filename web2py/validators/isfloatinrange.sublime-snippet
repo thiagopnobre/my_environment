@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isfloatinrange</tabTrigger>
-<scope>source.python</scope>
-<description>IS_FLOAT_IN_RANGE</description>
-
-<content><![CDATA[IS_FLOAT_IN_RANGE(${1:minimum=}, ${2:maximum=}$3)$4]]></content>
-</snippet>

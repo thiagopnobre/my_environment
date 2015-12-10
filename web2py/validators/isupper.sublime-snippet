@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isupper</tabTrigger>
-<scope>source.python</scope>
-<description>IS_UPPER</description>
-
-<content><![CDATA[IS_UPPER()$1]]></content>
-</snippet>

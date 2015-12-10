@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isurl</tabTrigger>
-<scope>source.python</scope>
-<description>IS_URL</description>
-
-<content><![CDATA[IS_URL($1)$2]]></content>
-</snippet>

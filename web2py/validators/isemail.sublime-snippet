@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isemail</tabTrigger>
-<scope>source.python</scope>
-<description>IS_EMAIL</description>
-
-<content><![CDATA[IS_EMAIL($1)$2]]></content>
-</snippet>

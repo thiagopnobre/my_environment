@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isinset</tabTrigger>
-<scope>source.python</scope>
-<description>IS_IN_SET</description>
-
-<content><![CDATA[IS_IN_SET([$1]$2)$2]]></content>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>islistof</tabTrigger>
-<scope>source.python</scope>
-<description>IS_LIST_OF</description>
-
-<content><![CDATA[IS_LIST_OF($1)$2]]></content>
-</snippet>

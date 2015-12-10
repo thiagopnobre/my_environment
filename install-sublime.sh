@@ -5,4 +5,5 @@ sudo apt-get install -y sublime-text-installer
 subl
 sleep 2
 cp Package\ Control.sublime-package ~/.config/sublime-text-3/Installed\ Packages/
+
 echo "Sublime Text and Package Control are correctly installed!"

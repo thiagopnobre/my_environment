@@ -1,9 +1,9 @@
 {
 	"Seti_sb_wild": true,
 	"always_show_minimap_viewport": true,
-    "shift_tab_unindent": true,
+	"autocomplete": false,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"color_scheme": "Packages/User/Seti (Flake8Lint).tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -57,8 +57,6 @@
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-    "indent_to_bracket": true,
-    "caret_style": "solid",
 	"ignored_packages":
 	[
 		"Markdown",
@@ -69,15 +67,12 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"indent_to_bracket": true,
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		72,
-		79
-	],
 	"scroll_past_end": false,
+	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 4,

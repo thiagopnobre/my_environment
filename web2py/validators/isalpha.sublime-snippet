@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isalpha</tabTrigger>
-<scope>source.python</scope>
-<description>IS_ALPHANUMERIC</description>
-
-<content><![CDATA[IS_ALPHANUMERIC($1)$2]]></content>
-</snippet>

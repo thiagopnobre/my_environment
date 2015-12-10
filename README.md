@@ -1,7 +1,7 @@
 My Environment
 ==============
 
-Personal configuration for Sublime Text 3 and python environment at Ubuntu. It's focused on webdeveloper.
+Personal configuration for Sublime Text 3 and python environment at Ubuntu. It's focused on web developing.
 
 ![Imagem do Editor com Plugins](sublime.png)
 
@@ -39,7 +39,7 @@ Awesome zsh [config](http://cassiobotaro.github.io/mv-bash-zsh.html)
 
 See what each script do:
 
-    * intall-dependencies.sh - Install nodejs(required for some plugins), git(version control) and build-essential
+    * intall-dependencies.sh - Install git(version control) and build-essential
 
     * install-environment.sh - Install a python environment with pip, ipython, virtualenvwrapper and pytest
 
@@ -69,17 +69,13 @@ See what each script do:
     - ctrl + shift + f    ->  search in project
     where: <project>
 
-###Anaconda
+###Jedi
 
     - shift + alt + g     ->  go to definition
     - shift + alt + f     ->  find usages
     - shift + alt + d     ->  show docstring
-    - shift + alt + r     ->  auto format with pep8
 
 ###Requirements
     - alt + ,             ->  pin package to the most recent version but still in the current major line
     - alt + shift + ,     ->  pin to most recent version
     - alt + .             ->  pick a version from a quick panel
-
-###LTS Support
-[Ubuntu 14.04](https://github.com/cassiobotaro/my_environment/tree/ubuntu1404)

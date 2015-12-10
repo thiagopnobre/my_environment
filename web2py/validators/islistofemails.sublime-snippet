@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>islistofemails</tabTrigger>
-<scope>source.python</scope>
-<description>IS_LIST_OF_EMAILS</description>
-
-<content><![CDATA[IS_LIST_OF_EMAILS($1)$2]]></content>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-<tabTrigger>isipv4</tabTrigger>
-<scope>source.python</scope>
-<description>IS_IPV4</description>
-
-<content><![CDATA[IS_IPV4($1)$2]]></content>
-</snippet>
