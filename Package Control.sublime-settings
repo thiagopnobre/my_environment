@@ -25,6 +25,10 @@
 		"SideBarEnhancements",
 		"SublimeREPL",
 		"Tag",
-		"Terminal"
+		"Terminal",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"HTML5",
+		"LoremIpsum"
 	]
 }
