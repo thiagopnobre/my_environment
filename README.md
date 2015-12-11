@@ -9,17 +9,14 @@ My goal in this project is to be a model, if you don't like something, fork and 
 
 Features:
 - git
-- web2py support
 - pep8
 - pep257
-- pyflake
+- pyflakes
 - html helpers(emmet)
 - virtual environment(virtualenvwrapper)
 - better console(ipython)
 - markdown preview
 - ...and more!
-
-Awesome zsh [config](http://cassiobotaro.github.io/mv-bash-zsh.html)
 
 ##Requirements:
 
@@ -74,6 +71,7 @@ See what each script do:
     - shift + alt + g     ->  go to definition
     - shift + alt + f     ->  find usages
     - shift + alt + d     ->  show docstring
+    - shift + alt + s     ->  show method signature
 
 ###Requirements
     - alt + ,             ->  pin package to the most recent version but still in the current major line
