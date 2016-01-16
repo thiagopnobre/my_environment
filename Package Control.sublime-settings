@@ -7,14 +7,18 @@
 	[
 		"All Autocomplete",
 		"AutoFileName",
-		"Color Highlighter",
+		"AutoPEP8",
 		"BracketHighlighter",
+		"Color Highlighter",
 		"ColorPicker",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"Git",
 		"GitGutter",
 		"JavaScript & NodeJS Snippets",
 		"Jedi - Python autocompletion",
+		"Jinja2",
+        	"HTML5",
 		"Keymaps",
 		"Markdown Preview",
 		"MarkdownEditing",
@@ -26,7 +30,6 @@
 		"SideBarEnhancements",
 		"SublimeREPL",
 		"Tag",
-		"Terminal",
-		"HTML5",
+		"Terminal"
 	]
 }
