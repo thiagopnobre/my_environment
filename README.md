@@ -1,3 +1,8 @@
+# :warning: Dead project :warning:
+
+Please see [dotfiles](https://github.com/cassiobotaro/dotfiles) instead.
+
+
 My Environment
 ==============
 
